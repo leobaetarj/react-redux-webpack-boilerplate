@@ -1,0 +1,8 @@
+**/*{.,-}min.js
+app/assets/javascripts/i18n/frontend-*.js
+app/assets/javascripts/v2/email-home/components/search-filters/period-filter/DatePicker.js
+spec/javascripts/support/boot/boot.js
+vendor
+lib
+public
+dist
